@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRegistro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Registro>
+    <NumberRecord>1</NumberRecord>
+    <UserID>   2554321</UserID>
+    <UserName>DEYANIRA SANCHEZ</UserName>
+    <FechaHora_Marca>2020-12-09T14:02:57</FechaHora_Marca>
+    <Device>1         </Device>
+    <NameDevice>Biometric Device</NameDevice>
+    <DateRegistro>09122020</DateRegistro>
+    <HourRegistro>1402</HourRegistro>
+    <Reference>11</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>2</NumberRecord>
+    <UserID>  11148562</UserID>
+    <UserName>Nelson Pino</UserName>
+    <FechaHora_Marca>2020-12-09T14:04:06</FechaHora_Marca>
+    <Device>4         </Device>
+    <NameDevice>Entrada Comedor</NameDevice>
+    <DateRegistro>09122020</DateRegistro>
+    <HourRegistro>1404</HourRegistro>
+    <Reference>10</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>3</NumberRecord>
+    <UserID>  67574744</UserID>
+    <UserName>PEDRO VALDIVIESO</UserName>
+    <FechaHora_Marca>2020-12-09T14:07:46</FechaHora_Marca>
+    <Device>2         </Device>
+    <NameDevice>Entrada Principal Empresa</NameDevice>
+    <DateRegistro>09122020</DateRegistro>
+    <HourRegistro>1407</HourRegistro>
+    <Reference>20</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>4</NumberRecord>
+    <UserID>  11148562</UserID>
+    <UserName>Nelson Pino</UserName>
+    <FechaHora_Marca>2020-12-10T08:34:36</FechaHora_Marca>
+    <Device>6         </Device>
+    <NameDevice>Salida Planta Produccion</NameDevice>
+    <DateRegistro>10122020</DateRegistro>
+    <HourRegistro>0834</HourRegistro>
+    <Reference>10</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>5</NumberRecord>
+    <UserID>   2554321</UserID>
+    <UserName>DEYANIRA SANCHEZ</UserName>
+    <FechaHora_Marca>2020-12-10T08:37:02</FechaHora_Marca>
+    <Device>5         </Device>
+    <NameDevice>Salida Comedor</NameDevice>
+    <DateRegistro>10122020</DateRegistro>
+    <HourRegistro>0837</HourRegistro>
+    <Reference>11</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>6</NumberRecord>
+    <UserID>  67574744</UserID>
+    <UserName>PEDRO VALDIVIESO</UserName>
+    <FechaHora_Marca>2020-12-10T11:18:31</FechaHora_Marca>
+    <Device>4         </Device>
+    <NameDevice>Entrada Comedor</NameDevice>
+    <DateRegistro>10122020</DateRegistro>
+    <HourRegistro>1118</HourRegistro>
+    <Reference>20</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>7</NumberRecord>
+    <UserID>  81600907</UserID>
+    <UserName>Alejandro Valverde</UserName>
+    <FechaHora_Marca>2020-12-11T15:23:05</FechaHora_Marca>
+    <Device>2         </Device>
+    <NameDevice>Entrada Principal Empresa</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1523</HourRegistro>
+    <Reference>12</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>8</NumberRecord>
+    <UserID>  81600907</UserID>
+    <UserName>Alejandro Valverde</UserName>
+    <FechaHora_Marca>2020-12-11T15:23:22</FechaHora_Marca>
+    <Device>4         </Device>
+    <NameDevice>Entrada Comedor</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1523</HourRegistro>
+    <Reference>12</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>9</NumberRecord>
+    <UserID>  81600907</UserID>
+    <UserName>Alejandro Valverde</UserName>
+    <FechaHora_Marca>2020-12-11T15:24:00</FechaHora_Marca>
+    <Device>5         </Device>
+    <NameDevice>Salida Comedor</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1524</HourRegistro>
+    <Reference>12</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>10</NumberRecord>
+    <UserID>  81600907</UserID>
+    <UserName>Alejandro Valverde</UserName>
+    <FechaHora_Marca>2020-12-11T15:24:12</FechaHora_Marca>
+    <Device>7         </Device>
+    <NameDevice>Entrada Area Almacen</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1524</HourRegistro>
+    <Reference>12</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>11</NumberRecord>
+    <UserID>  81600907</UserID>
+    <UserName>Alejandro Valverde</UserName>
+    <FechaHora_Marca>2020-12-11T15:24:31</FechaHora_Marca>
+    <Device>3         </Device>
+    <NameDevice>Salida Principal Empresa</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1524</HourRegistro>
+    <Reference>12</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>12</NumberRecord>
+    <UserID>   2554321</UserID>
+    <UserName>DEYANIRA SANCHEZ</UserName>
+    <FechaHora_Marca>2020-12-11T15:28:37</FechaHora_Marca>
+    <Device>1         </Device>
+    <NameDevice>Biometric Device</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1528</HourRegistro>
+    <Reference>11</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>13</NumberRecord>
+    <UserID>   2554321</UserID>
+    <UserName>DEYANIRA SANCHEZ</UserName>
+    <FechaHora_Marca>2020-12-11T15:28:53</FechaHora_Marca>
+    <Device>2         </Device>
+    <NameDevice>Entrada Principal Empresa</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1528</HourRegistro>
+    <Reference>11</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>14</NumberRecord>
+    <UserID>   2554321</UserID>
+    <UserName>DEYANIRA SANCHEZ</UserName>
+    <FechaHora_Marca>2020-12-11T15:29:08</FechaHora_Marca>
+    <Device>4         </Device>
+    <NameDevice>Entrada Comedor</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1529</HourRegistro>
+    <Reference>11</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>15</NumberRecord>
+    <UserID>   2554321</UserID>
+    <UserName>DEYANIRA SANCHEZ</UserName>
+    <FechaHora_Marca>2020-12-11T15:32:57</FechaHora_Marca>
+    <Device>5         </Device>
+    <NameDevice>Salida Comedor</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1532</HourRegistro>
+    <Reference>11</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>16</NumberRecord>
+    <UserID>   2554321</UserID>
+    <UserName>DEYANIRA SANCHEZ</UserName>
+    <FechaHora_Marca>2020-12-11T15:33:24</FechaHora_Marca>
+    <Device>6         </Device>
+    <NameDevice>Salida Planta Produccion</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1533</HourRegistro>
+    <Reference>11</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>17</NumberRecord>
+    <UserID>  67574744</UserID>
+    <UserName>PEDRO VALDIVIESO</UserName>
+    <FechaHora_Marca>2020-12-11T15:39:44</FechaHora_Marca>
+    <Device>2         </Device>
+    <NameDevice>Entrada Principal Empresa</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1539</HourRegistro>
+    <Reference>20</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>18</NumberRecord>
+    <UserID>  67574744</UserID>
+    <UserName>PEDRO VALDIVIESO</UserName>
+    <FechaHora_Marca>2020-12-11T15:39:56</FechaHora_Marca>
+    <Device>4         </Device>
+    <NameDevice>Entrada Comedor</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1539</HourRegistro>
+    <Reference>20</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>19</NumberRecord>
+    <UserID>  11148562</UserID>
+    <UserName>Nelson Pino</UserName>
+    <FechaHora_Marca>2020-12-11T15:40:10</FechaHora_Marca>
+    <Device>7         </Device>
+    <NameDevice>Entrada Area Almacen</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1540</HourRegistro>
+    <Reference>10</Reference>
+  </Registro>
+  <Registro>
+    <NumberRecord>20</NumberRecord>
+    <UserID>  67574744</UserID>
+    <UserName>PEDRO VALDIVIESO</UserName>
+    <FechaHora_Marca>2020-12-11T15:40:10</FechaHora_Marca>
+    <Device>7         </Device>
+    <NameDevice>Entrada Area Almacen</NameDevice>
+    <DateRegistro>11122020</DateRegistro>
+    <HourRegistro>1540</HourRegistro>
+    <Reference>20</Reference>
+  </Registro>
+</ArrayOfRegistro>
